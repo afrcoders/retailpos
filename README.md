@@ -49,7 +49,7 @@ RetailPOS is a comprehensive Point of Sale system built with Laravel. It provide
 
 ```bash
 # Clone the repository
-git clone https://github.com/dhtml/retailpos.git
+git clone https://github.com/afrcoders/retailpos.git
 cd retailpos
 
 # Install with Make
@@ -79,9 +79,9 @@ make test     # Run tests
 ### Environment
 
 ```env
-APP_NAME=OSPOS
+APP_NAME=RetailPOS
 DB_HOST=mysql
-DB_DATABASE=ospos
+DB_DATABASE=retailpos
 REDIS_HOST=redis
 CACHE_DRIVER=redis
 QUEUE_CONNECTION=redis
@@ -132,7 +132,7 @@ GET    /api/customers/{id}  # Get customer
 ## Project Structure
 
 ```
-ospos/
+retailpos/
 ├── app/
 │   ├── Http/Controllers/
 │   ├── Models/
