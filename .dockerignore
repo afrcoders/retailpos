@@ -1,0 +1,16 @@
+.git
+.gitignore
+.idea
+.vscode
+/vendor
+/node_modules
+.env
+.env.backup
+.env.production
+/public/build
+/storage/logs/*
+/tests
+phpunit.xml
+README.md
+CHANGELOG.md
+docker-compose.override.yml

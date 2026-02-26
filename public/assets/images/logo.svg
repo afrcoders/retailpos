@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <!-- Background -->
+  <rect width="200" height="60" fill="#1a472a"/>
+
+  <!-- Main circle -->
+  <circle cx="30" cy="30" r="18" fill="#f39200"/>
+
+  <!-- Inner design -->
+  <path d="M 25 25 L 35 35 M 25 35 L 35 25" stroke="white" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Text -->
+  <text x="55" y="40" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white">POS</text>
+
+  <!-- Subtitle -->
+  <text x="55" y="55" font-family="Arial, sans-serif" font-size="10" fill="#f39200">DAKOSS GLOBAL</text>
+</svg>
